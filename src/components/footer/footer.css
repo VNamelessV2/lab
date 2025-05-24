@@ -1,0 +1,6 @@
+.footer {
+    background-color: burlywood;
+    grid-area: footer;
+    height: 5vh;
+    
+}

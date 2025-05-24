@@ -1,0 +1,6 @@
+.section {
+    grid-area: section;
+    background-color: yellow;
+    width: 20vw;
+    
+}

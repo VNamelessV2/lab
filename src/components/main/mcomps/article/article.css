@@ -1,0 +1,8 @@
+.article {
+    grid-area: article;
+    background-color: coral;
+    width: 60vw;
+    border-right: chocolate solid 10px;
+    border-left: purple solid 5px;
+    
+}
