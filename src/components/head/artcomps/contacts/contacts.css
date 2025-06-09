@@ -1,0 +1,39 @@
+.contacts{
+    padding-top: 5vh;
+    padding-left: 10vh;
+}
+
+.feedback-table {
+    width: 80%;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+}
+.feedback-table th {
+    border: 1px solid #ddd;
+    padding: 10px;
+    vertical-align: top;
+    font-size: 36px;
+    padding-left: 90px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.feedback-table td{
+    border: 1px solid #ddd;
+    padding: 10px;
+    vertical-align: top;
+    font-size: 26px;
+    background-color: #F0EFDD;
+    padding-left: 100px;
+     font-family: 'Times New Roman', Times, serif;
+}
+
+.feedback-table th {
+    text-align: left;
+}
+
+
+.city{
+    font-weight:unset;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 26px;
+}

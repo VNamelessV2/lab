@@ -1,6 +1,13 @@
 .aside {
     grid-area: aside;
-    background-color: cornflowerblue;
-    width: 20vw;
+    border-top: black solid 2px;
+    background-color: #9A9969;
+    width: 18vw;
     
+}
+
+.aside p{
+    font-size: 18px;
+    font-family: OpenSymbol;
+    padding-left: 15px;
 }

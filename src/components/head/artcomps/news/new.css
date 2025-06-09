@@ -1,0 +1,39 @@
+.news {
+    padding-left: 2vh;
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+
+
+.news h2{
+    font-size: 27px;
+    font-family: 'Times New Roman', Times, serif;
+    padding-bottom: 0px;
+}
+
+.news p{
+    padding-top: 0px;
+    font-size: 22px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.st{
+    background-color: #F0EFDD;
+    padding: 20px 20px 20px 20px;
+    display: inline-block;
+    font-size: 22px;
+    padding-inline-end: 250px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.st i{
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.pr{
+    font-size: 22px;
+    padding-left: 350px;
+    font-family: 'Times New Roman', Times, serif;
+}

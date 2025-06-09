@@ -1,0 +1,40 @@
+.equal-width-table {
+    width: 90%;
+    border-collapse: collapse;
+    text-align: center;
+    margin-left: 6vh;
+}
+.equal-width-table th, 
+.equal-width-table td {
+    font-size: 26px;
+    width: 50%; /* Равная ширина для 3 колонок */
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: center;
+    background-color: #F0EFDD;
+    font-family: 'Times New Roman', Times, serif;
+}
+.equal-width-table th {
+    background-color: #f2f2f2;
+}
+
+.maimm{
+    padding-top: 3vh;
+    
+}
+
+.te{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 36px;
+    text-align: center;
+}
+
+.head-link {
+    color: black;
+    text-decoration: underline;
+    padding: 5px 10px;
+}
+
+.head-link:hover {
+    color: blue;
+}

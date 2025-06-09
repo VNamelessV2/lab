@@ -1,11 +1,25 @@
 .head {
-    height: 5vh;
+    height: 3vh;
+    padding-left: 2vh;
     top: 0;
-    background-color: antiquewhite;
+    background-color: #F0EFDD ;
     grid-area: head;
     display: grid;
     justify-content: center;
     align-items: center;
-    grid-template-columns: repeat(3,1fr);
+    grid-template-columns: repeat(5,1fr);
+    border-top: black solid 2px;
+    border-bottom:black solid ;
+    font-family: 'Times New Roman', Times, serif;
     
+}
+
+.head-link {
+    color: black;
+    text-decoration: underline;
+    padding: 5px 10px;
+}
+
+.head-link:hover {
+    color: blue;
 }

@@ -1,6 +1,9 @@
 .footer {
-    background-color: burlywood;
+    background-color: #281B0B;
     grid-area: footer;
-    height: 5vh;
+    height: 7vh;
+    color: whitesmoke;
+    padding-left: 80vh;
+    font-size: 13px;
     
 }
