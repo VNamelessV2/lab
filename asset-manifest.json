@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/static/css/main.00888a94.css",
-    "main.js": "/static/js/main.ff30cb4d.js",
-    "static/media/chiss.png": "/static/media/chiss.65abb11660e1e655270e.png",
-    "static/media/coffe.jpg": "/static/media/coffe.e572fb210d5cfc0d11f8.jpg",
-    "static/media/kapreze.jpg": "/static/media/kapreze.7609c98760742ac0da11.jpg",
-    "static/media/marg.jpg": "/static/media/marg.54576582c09d8c2b348c.jpg",
-    "static/media/posset.jpg": "/static/media/posset.47ecf8e32d1f75b0b31b.jpg",
-    "static/media/pastak.jpg": "/static/media/pastak.235400f1094f3f43a35b.jpg",
-    "static/media/pul.jpg": "/static/media/pul.7776f03d6478e8cb29fe.jpg",
-    "static/media/laz.jpg": "/static/media/laz.59ea2f0769f51538f099.jpg",
-    "static/media/two.jpg": "/static/media/two.1213edc386a731d91bdc.jpg",
-    "static/media/one.jpg": "/static/media/one.30bb7c9b0424d095d8fb.jpg",
-    "static/media/pana.jpg": "/static/media/pana.688a417fc188d5cdd3ad.jpg",
-    "static/media/tiram.jpg": "/static/media/tiram.025e9d8e6ca096da8a48.jpg",
-    "static/media/matcha.jpg": "/static/media/matcha.8c64907cf7673fb9d249.jpg",
-    "static/media/limonade.jpg": "/static/media/limonade.716e112c5ab232c33a7c.jpg",
-    "index.html": "/index.html",
-    "main.00888a94.css.map": "/static/css/main.00888a94.css.map",
-    "main.ff30cb4d.js.map": "/static/js/main.ff30cb4d.js.map"
+    "main.css": "/lab/static/css/main.00888a94.css",
+    "main.js": "/lab/static/js/main.2ca2a649.js",
+    "static/media/chiss.png": "/lab/static/media/chiss.65abb11660e1e655270e.png",
+    "static/media/coffe.jpg": "/lab/static/media/coffe.e572fb210d5cfc0d11f8.jpg",
+    "static/media/kapreze.jpg": "/lab/static/media/kapreze.7609c98760742ac0da11.jpg",
+    "static/media/marg.jpg": "/lab/static/media/marg.54576582c09d8c2b348c.jpg",
+    "static/media/posset.jpg": "/lab/static/media/posset.47ecf8e32d1f75b0b31b.jpg",
+    "static/media/pastak.jpg": "/lab/static/media/pastak.235400f1094f3f43a35b.jpg",
+    "static/media/pul.jpg": "/lab/static/media/pul.7776f03d6478e8cb29fe.jpg",
+    "static/media/laz.jpg": "/lab/static/media/laz.59ea2f0769f51538f099.jpg",
+    "static/media/two.jpg": "/lab/static/media/two.1213edc386a731d91bdc.jpg",
+    "static/media/one.jpg": "/lab/static/media/one.30bb7c9b0424d095d8fb.jpg",
+    "static/media/pana.jpg": "/lab/static/media/pana.688a417fc188d5cdd3ad.jpg",
+    "static/media/tiram.jpg": "/lab/static/media/tiram.025e9d8e6ca096da8a48.jpg",
+    "static/media/matcha.jpg": "/lab/static/media/matcha.8c64907cf7673fb9d249.jpg",
+    "static/media/limonade.jpg": "/lab/static/media/limonade.716e112c5ab232c33a7c.jpg",
+    "index.html": "/lab/index.html",
+    "main.00888a94.css.map": "/lab/static/css/main.00888a94.css.map",
+    "main.2ca2a649.js.map": "/lab/static/js/main.2ca2a649.js.map"
   },
   "entrypoints": [
     "static/css/main.00888a94.css",
-    "static/js/main.ff30cb4d.js"
+    "static/js/main.2ca2a649.js"
   ]
 }
