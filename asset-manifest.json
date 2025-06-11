@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/REPO-NAME/static/css/main.00888a94.css",
+    "main.js": "/REPO-NAME/static/js/main.001bba14.js",
+    "static/media/chiss.png": "/REPO-NAME/static/media/chiss.65abb11660e1e655270e.png",
+    "static/media/coffe.jpg": "/REPO-NAME/static/media/coffe.e572fb210d5cfc0d11f8.jpg",
+    "static/media/kapreze.jpg": "/REPO-NAME/static/media/kapreze.7609c98760742ac0da11.jpg",
+    "static/media/marg.jpg": "/REPO-NAME/static/media/marg.54576582c09d8c2b348c.jpg",
+    "static/media/posset.jpg": "/REPO-NAME/static/media/posset.47ecf8e32d1f75b0b31b.jpg",
+    "static/media/pastak.jpg": "/REPO-NAME/static/media/pastak.235400f1094f3f43a35b.jpg",
+    "static/media/pul.jpg": "/REPO-NAME/static/media/pul.7776f03d6478e8cb29fe.jpg",
+    "static/media/laz.jpg": "/REPO-NAME/static/media/laz.59ea2f0769f51538f099.jpg",
+    "static/media/two.jpg": "/REPO-NAME/static/media/two.1213edc386a731d91bdc.jpg",
+    "static/media/one.jpg": "/REPO-NAME/static/media/one.30bb7c9b0424d095d8fb.jpg",
+    "static/media/pana.jpg": "/REPO-NAME/static/media/pana.688a417fc188d5cdd3ad.jpg",
+    "static/media/tiram.jpg": "/REPO-NAME/static/media/tiram.025e9d8e6ca096da8a48.jpg",
+    "static/media/matcha.jpg": "/REPO-NAME/static/media/matcha.8c64907cf7673fb9d249.jpg",
+    "static/media/limonade.jpg": "/REPO-NAME/static/media/limonade.716e112c5ab232c33a7c.jpg",
+    "index.html": "/REPO-NAME/index.html",
+    "main.00888a94.css.map": "/REPO-NAME/static/css/main.00888a94.css.map",
+    "main.001bba14.js.map": "/REPO-NAME/static/js/main.001bba14.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.00888a94.css",
+    "static/js/main.001bba14.js"
+  ]
+}
