@@ -45,7 +45,7 @@ export function Mainb() {
                             Alt="Капрезе"/>
                 </td>
                 <td><spawn className="wr"><u>Капрезе</u></spawn><br />
-                <spawn className="wr1"><i>Помидоры, сыр, моцарелла, базелик, оливковок масло.</i></spawn></td>
+                <spawn className="wr1"><i>Помидоры, сыр, моцарелла, базелик, оливковое масло.</i></spawn></td>
             </tr>
         </tbody>
     </table>

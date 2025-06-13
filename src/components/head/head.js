@@ -12,7 +12,7 @@ export default function Head() {
             <Link to="/new" className="head-link">Новости</Link>
             <Link to="/maimm" className="head-link">Меню</Link>
             <Link to="/about" className="head-link">О заведении</Link>
-            <Link to="/contacts" className="head-link">Обратная свзяь</Link>
+            <Link to="/contacts" className="head-link">Обратная связь</Link>
             
         </div>
     );

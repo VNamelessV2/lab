@@ -34,7 +34,7 @@ export function Desert() {
                             Alt="Панна Котта"/>
                             </td>
                 <td><spawn className="wr"><u>Панна Котта</u></spawn><br />
-                <spawn className="wr1"><i>Сливки, сахар, желатин, ванильный эстрак, лимонный сок.</i></spawn></td>
+                <spawn className="wr1"><i>Сливки, сахар, желатин, ванильный эстракт, лимонный сок.</i></spawn></td>
             </tr>
             <tr>
                 <td>
@@ -45,7 +45,7 @@ export function Desert() {
                             Alt="Тирамису"/>
                 </td>
                 <td><spawn className="wr"><u>Тирамису</u></spawn><br />
-                <spawn className="wr1"><i>Печенье савоярди, сливочный сыр, маскарпоне, кофе, экспрессо, како-порошок.</i></spawn></td>
+                <spawn className="wr1"><i>Печенье савоярди, сливочный сыр, маскарпоне, кофе эспрессо, какао-порошок.</i></spawn></td>
             </tr>
         </tbody>
     </table>
